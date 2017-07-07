@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="stepper_height">72dp</dimen>
+    <dimen name="step_icon_padding_top">24dp</dimen>
+    <dimen name="step_icon_padding_bottom">24dp</dimen>
+    <dimen name="stepper_icon_first_padding_left">24dp</dimen>
+    <dimen name="step_icon_last_padding_right">24dp</dimen>
+    <dimen name="step_icon_padding_right">8dp</dimen>
+    <dimen name="step_icon_padding_left">8dp</dimen>
+    <dimen name="step_label_padding_top">8dp</dimen>
+    <dimen name="step_label_padding_bottom">8dp</dimen>
+    <dimen name="stepper_label_padding_left">8dp</dimen>
+    <dimen name="step_circle_dia">24dp</dimen>
+
+    <dimen name="step_circle_text_size">12sp</dimen>
+    <dimen name="step_label_text_size">14sp</dimen>
+    <dimen name="step_label_optional_text_size">12sp</dimen>
+    <dimen name="stepper_button_text_size">15sp</dimen>
+    <dimen name="stepper_txt_error_margin">5dp</dimen>
+    <dimen name="stepper_tab_elevation">6dp</dimen>
+</resources>

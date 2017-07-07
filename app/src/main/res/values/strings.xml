@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ManualStepper</string>
+
+    <string name="step_label_optional">You can skip this :)</string>
+
+    <string name="stepper_btn_forwards">NEXT</string>
+    <string name="stepper_btn_forwards_optional">SKIP</string>
+    <string name="stepper_btn_backwards">PREV</string>
+    <string name="stepper_btn_forwards_final">BUILD</string>
+    <string name="stepper_btn_forwards_optional_final">SKIP &amp; BUILD</string>
+
+    <string name="stepper_step_name_1">Processor</string>
+    <string name="stepper_step_name_2">Motherboard</string>
+    <string name="stepper_step_name_3">RAM</string>
+    <string name="stepper_step_name_4">Hard-Disk</string>
+    <string name="stepper_step_name_5">SSD</string>
+    <string name="stepper_step_name_6">Graphics Card</string>
+    <string name="stepper_step_name_7">Cabinet</string>
+    <string name="stepper_step_name_8">Power Supply</string>
+    <string name="stepper_step_name_9">Optical Drive</string>
+    <string name="stepper_step_name_10">Monitor</string>
+    <string name="stepper_step_name_11">Keyboard + Mouse</string>
+
+    <string name="stepper_error">Select this part to move on.</string>
+</resources>
